@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      6243,        171]
-NotebookOptionsPosition[      5703,        152]
-NotebookOutlinePosition[      6160,        170]
-CellTagsIndexPosition[      6117,        167]
+NotebookDataLength[      6249,        171]
+NotebookOptionsPosition[      5705,        152]
+NotebookOutlinePosition[      6166,        170]
+CellTagsIndexPosition[      6123,        167]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -39,7 +39,7 @@ Cell[BoxData[
           RowBox[{"-", "1"}], ",", "1"}], "}"}], ",", 
         RowBox[{"{", 
          RowBox[{"m", ",", "n"}], "}"}]}], "]"}]}]}], ";"}], 
-   "\[IndentingNewLine]", "\[IndentingNewLine]", 
+   "\[IndentingNewLine]", 
    RowBox[{
     RowBox[{"F", "[", "AIn_", "]"}], ":=", 
     RowBox[{"Module", "[", 
@@ -95,9 +95,9 @@ Cell[BoxData[
    RowBox[{"MatrixPlot", "[", 
     RowBox[{"Chop", "[", "A", "]"}], "]"}]}]}]], "Input",
  CellChangeTimes->{{3.885313486315604*^9, 3.8853135320988255`*^9}, {
-  3.88531356644695*^9, 3.8853135981874013`*^9}, {3.885313632397938*^9, 
-  3.8853136788105907`*^9}, {3.8853137137755594`*^9, 
-  3.885314023874079*^9}},ExpressionUUID->"de63e691-e575-425b-b5e6-\
+   3.88531356644695*^9, 3.8853135981874013`*^9}, {3.885313632397938*^9, 
+   3.8853136788105907`*^9}, {3.8853137137755594`*^9, 3.885314023874079*^9}, 
+   3.885399341038337*^9},ExpressionUUID->"de63e691-e575-425b-b5e6-\
 ac35273d53c8"],
 
 Cell[BoxData[
@@ -142,19 +142,19 @@ sm9DY6WqXtsDACryV18=
        "Highlight" -> {"ratio" -> 2}, "HighlightPoint" -> {"ratio" -> 2}, 
         "Droplines" -> {
          "freeformCursorMode" -> True, 
-          "placement" -> {"x" -> "All", "y" -> "None"}}}}, 
-    "DefaultPlotStyle" -> Automatic, "DomainPadding" -> Scaled[0.02], 
-    "RangePadding" -> Scaled[0.05]}]], "Output",
+          "placement" -> {"x" -> "All", "y" -> "None"}}}}, "DefaultPlotStyle" -> 
+    Automatic, "DomainPadding" -> Scaled[0.02], "RangePadding" -> 
+    Scaled[0.05]}]], "Output",
  CellChangeTimes->{{3.8853139213249235`*^9, 3.8853139421729436`*^9}, {
   3.8853140021743226`*^9, 3.8853140089093666`*^9}},
  CellLabel->"Out[31]=",ExpressionUUID->"b5121635-62f7-4b20-9a0f-25f04feed0dd"]
 }, Open  ]]
 },
 WindowToolbars->"EditBar",
-WindowSize->{1141.2, 574.8},
-WindowMargins->{{0, Automatic}, {Automatic, 0}},
+WindowSize->{960, 508},
+WindowMargins->{{-5.5, Automatic}, {Automatic, -5.5}},
 Magnification:>1.5 Inherited,
-FrontEndVersion->"12.3 for Microsoft Windows (64-bit) (May 11, 2021)",
+FrontEndVersion->"13.1 for Microsoft Windows (64-bit) (August 22, 2022)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"da52df3b-2c17-47e5-93c0-d6debaee12af"
 ]
@@ -170,8 +170,8 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 2850, 78, 414, "Input",ExpressionUUID->"de63e691-e575-425b-b5e6-ac35273d53c8"],
-Cell[3433, 102, 2254, 47, 673, "Output",ExpressionUUID->"b5121635-62f7-4b20-9a0f-25f04feed0dd"]
+Cell[580, 22, 2852, 78, 385, "Input",ExpressionUUID->"de63e691-e575-425b-b5e6-ac35273d53c8"],
+Cell[3435, 102, 2254, 47, 673, "Output",ExpressionUUID->"b5121635-62f7-4b20-9a0f-25f04feed0dd"]
 }, Open  ]]
 }
 ]
