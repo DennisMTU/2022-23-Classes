@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     31837,        645]
-NotebookOptionsPosition[     30805,        618]
-NotebookOutlinePosition[     31437,        639]
-CellTagsIndexPosition[     31394,        636]
+NotebookDataLength[     31857,        647]
+NotebookOptionsPosition[     30840,        620]
+NotebookOutlinePosition[     31457,        641]
+CellTagsIndexPosition[     31414,        638]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -62,17 +62,19 @@ Cell[BoxData[{
   ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{
-   RowBox[{"{", 
-    RowBox[{"\[Alpha]1", ",", "\[Alpha]2"}], "}"}], "=", " ", 
-   RowBox[{"{", 
-    RowBox[{
-     RowBox[{"a1", "/", 
-      RowBox[{"Norm", "[", "d1", "]"}]}], ",", 
-     RowBox[{"a2", "/", 
-      RowBox[{"Norm", "[", "d2", "]"}]}]}], "}"}]}], ";", " ", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{"\[Alpha]1", ",", "\[Alpha]2"}], "}"}], "=", " ", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"a1", "/", 
+       RowBox[{"Norm", "[", "d1", "]"}]}], ",", 
+      RowBox[{"a2", "/", 
+       RowBox[{"Norm", "[", "d2", "]"}]}]}], "}"}]}], ";"}], " ", 
   RowBox[{"(*", " ", 
-   RowBox[{"distances", " ", "to", " ", "constraints"}], " ", "*)"}], 
-  "\[IndentingNewLine]", 
+   RowBox[{"distances", " ", "to", " ", "constraints"}], " ", 
+   "*)"}]}], "\[IndentingNewLine]", 
+ RowBox[{
   RowBox[{
    RowBox[{"{", 
     RowBox[{
@@ -617,12 +619,12 @@ Cell["Break", "Section",
 }, Open  ]]
 },
 WindowToolbars->"EditBar",
-WindowSize->{1138.8, 574.8},
-WindowMargins->{{0, Automatic}, {Automatic, 0}},
-TaggingRules->Association[
- "PresenterSettings" -> Association["Dialogs" -> {}], "TryRealOnly" -> False],
+WindowSize->{958, 478},
+WindowMargins->{{-4.5, Automatic}, {Automatic, 0.5}},
+TaggingRules-><|
+ "PresenterSettings" -> <|"Dialogs" -> {}|>, "TryRealOnly" -> False|>,
 Magnification:>1.5 Inherited,
-FrontEndVersion->"12.3 for Microsoft Windows (64-bit) (May 11, 2021)",
+FrontEndVersion->"13.1 for Microsoft Windows (64-bit) (August 22, 2022)",
 StyleDefinitions->FrontEnd`FileName[{"PresenterTools"}, "Aqua.nb", 
   CharacterEncoding -> "UTF-8"],
 ExpressionUUID->"1228d13f-14ad-475f-8b27-6d71f4669d92"
@@ -641,11 +643,11 @@ Notebook[{
 Cell[CellGroupData[{
 Cell[580, 22, 381, 6, 184, "Title",ExpressionUUID->"bb443c9e-1a1c-437e-b10c-400e63a30bb8"],
 Cell[CellGroupData[{
-Cell[986, 32, 5018, 146, 414, "Input",ExpressionUUID->"fbff8802-b6b2-4ab5-b2c1-6e0882f66bbd"],
-Cell[6007, 180, 24422, 424, 564, "Output",ExpressionUUID->"62672f4a-8ee5-47df-9126-345215d4dc40"]
+Cell[986, 32, 5053, 148, 414, "Input",ExpressionUUID->"fbff8802-b6b2-4ab5-b2c1-6e0882f66bbd"],
+Cell[6042, 182, 24422, 424, 564, "Output",ExpressionUUID->"62672f4a-8ee5-47df-9126-345215d4dc40"]
 }, Open  ]],
-Cell[30444, 607, 192, 3, 50, "Text",ExpressionUUID->"3221cdf8-476a-4f60-a022-aec9aecf4057"],
-Cell[30639, 612, 150, 3, 97, "Section",ExpressionUUID->"2c8949fe-30bb-48cd-90d4-569817428748"]
+Cell[30479, 609, 192, 3, 50, "Text",ExpressionUUID->"3221cdf8-476a-4f60-a022-aec9aecf4057"],
+Cell[30674, 614, 150, 3, 97, "Section",ExpressionUUID->"2c8949fe-30bb-48cd-90d4-569817428748"]
 }, Open  ]]
 }
 ]
